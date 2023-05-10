@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VKInternshipFileManager</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="sorting_options">
+        <item>Name ↑</item>
+        <item>Name ↓</item>
+        <item>Size ↑</item>
+        <item>Size ↓</item>
+        <item>Creation Date ↑</item>
+        <item>Creation Date ↓</item>
+        <item>Extension ↑</item>
+        <item>Extension ↓</item>
+    </string-array>
+</resources>
